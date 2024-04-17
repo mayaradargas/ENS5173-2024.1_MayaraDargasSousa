@@ -1,5 +1,9 @@
 inputs
 shapefiles
+tables
+outputs
+pyEnv
+referencia
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
