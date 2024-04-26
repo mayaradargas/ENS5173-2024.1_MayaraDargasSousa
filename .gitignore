@@ -4,6 +4,9 @@ tables
 outputs
 pyEnv
 referencia
+tabelas_FE
+tabelas
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
